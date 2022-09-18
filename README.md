@@ -36,6 +36,7 @@ Once pip has been installed, the following commands can be used to install SciPy
 ---------------------------------------------------------------------------------------------------------------
 
 After installing everything, download Project1.py and open the file in the Python IDE of your choice and run.
+
 Note: you may need to configure your specific IDE to utilize the previously installed libraries
 
 ---------------------------------------------------------------------------------------------------------------
