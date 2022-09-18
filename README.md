@@ -25,9 +25,9 @@ To obtain the necessary libraries, download and install pip using any of the met
 https://pip.pypa.io/en/stable/installation/
 
 Once pip has been installed, the following commands can be used to install SciPy, NumPy, and matplotlib:
-pip install numpy
-pip install scipy
-pip install matplotlib
+- pip install numpy
+- pip install scipy
+- pip install matplotlib
 
 ---------------------------------------------------------------------------------------------------------------
 
