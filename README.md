@@ -1,7 +1,11 @@
 Rylan Casanova and Zach Pedersen
+
 09/18/22
+
 CST-305
+
 Visualizing ODE With SciPy
+
 README file
 
 ---------------------------------------------------------------------------------------------------------------
